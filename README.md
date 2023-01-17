@@ -10,4 +10,5 @@ This bot was built using Selenium, and programmed in Python. This bot scrapes da
 # Images
 ![Biography](https://cdn.discordapp.com/attachments/903863754486333484/1064889712592027678/image.png)
 ![Data](https://cdn.discordapp.com/attachments/903863754486333484/1064889813356003338/image.png)
+
 Notice in the image above that one day's worth of statistics is broken up into three tweets. This is to workaround the 280-character limit on indivudal tweets.
